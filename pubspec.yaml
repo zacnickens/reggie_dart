@@ -1,0 +1,19 @@
+name: reggie_and_dro_pwa
+description: Reggie and Dro PWA
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ^1.2.2
+  
+  flutter_localizations: # Required to enable localization
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+
+environment:
+  sdk: '^3.5.0'
